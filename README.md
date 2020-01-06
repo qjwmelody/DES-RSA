@@ -1,2 +1,2 @@
 # DES-RSA
-Project of Principles of Information Security
+Projects of Principles of Information Security
